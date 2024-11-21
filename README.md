@@ -1,4 +1,4 @@
-# Zomato-
+# Zomato
 Zomato restaurant aggregator and food delivery company.
 Restaurant Analysis: What restaurants are popular? What restaurant generates the highest revenue? Why?
 Data sources archive include: food, menu, orders, retaurants, and users.
